@@ -1,7 +1,7 @@
 {
-    "name": "Red Fm",
+    "name": "BIG FM",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://files.catbox.moe/yi9mms.jpg",
+    "logo": "https://files.catbox.moe/gwjaqy.jpg",
     "keywords": [
         "python3",
         "telegram",
