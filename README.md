@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://files.catbox.moe/yi9mms.jpg" alt="93.5 Red Fm Logo" width="500px">
+<img src="https://files.catbox.moe/gwjaqy.jpg" alt="92.7 BIG FM Logo" width="500px">
 </p>
 
 <h1 align="center">𝟵𝟯.𝟱 𝗥𝗘𝗗 𝗙𝗠🎧 [ ɴᴏ ᴀᴅʂ ]</h1>
