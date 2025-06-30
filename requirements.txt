@@ -13,7 +13,7 @@ numpy
 opencv-python
 pillow==11.2.1
 psutil
-py-tgcalls==0.9.7
+py-tgcalls==2.2.5
 pykeyboard
 kurigram==2.2.6
 python-dotenv
