@@ -27,4 +27,4 @@ uvloop
 yt-dlp
 youtube-search
 youtube-search-python
-yt-dlp>=2025.6.25
+yt-dlp>=2025.6.30
