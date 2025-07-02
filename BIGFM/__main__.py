@@ -6,7 +6,7 @@ from pytgcalls.exceptions import NoActiveGroupCall
 
 import config
 from BIGFM import LOGGER, app, userbot
-from BIGFM.core.call import Aviax
+from BIGFM.core.call import PyTgCalls
 from BIGFM.misc import sudo
 from BIGFM.plugins import ALL_MODULES
 from BIGFM.utils.database import get_banned_users, get_gbanned
