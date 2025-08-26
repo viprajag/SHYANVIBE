@@ -40,8 +40,8 @@ GIT_TOKEN = os.getenv("GIT_TOKEN", None)
 # 🔗 Support Links
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/HEROKU_CLUB")
-SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/NOBITA_SUPPORT")
+SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/+KD-mef9xC7w2NWFl")
+SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/+b4xC-L8bAGozYmQ9")
 PRIVACY_LINK = os.getenv("PRIVACY_LINK", "https://graph.org/Privacy-Policy-05-01-30")
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -85,18 +85,18 @@ AUTO_LEAVING_ASSISTANT = bool(os.getenv("AUTO_LEAVING_ASSISTANT", False))
 # 🖼️ Image URLs (Can be customized)
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-START_IMG_URL = os.getenv("START_IMG_URL", "https://files.catbox.moe/imr4oe.png")
-PING_IMG_URL = os.getenv("PING_IMG_URL", "https://files.catbox.moe/mnpfo1.png")
-PLAYLIST_IMG_URL = "https://files.catbox.moe/mnpfo1.png"
-STATS_IMG_URL = "https://files.catbox.moe/mnpfo1.png"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/mnpfo1.png"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/mnpfo1.png"
-STREAM_IMG_URL = "https://files.catbox.moe/mnpfo1.png"
-SOUNCLOUD_IMG_URL = "https://files.catbox.moe/mnpfo1.png"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/mnpfo1.png"
-SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/mnpfo1.png"
-SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/mnpfo1.png"
-SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/mnpfo1.png"
+START_IMG_URL = os.getenv("START_IMG_URL", "https://files.catbox.moe/kubukz.png")
+PING_IMG_URL = os.getenv("PING_IMG_URL", "https://files.catbox.moe/kubukz.png")
+PLAYLIST_IMG_URL = "https://files.catbox.moe/kubukz.png"
+STATS_IMG_URL = "https://files.catbox.moe/kubukz.png"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/kubukz.png"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/kubukz.png"
+STREAM_IMG_URL = "https://files.catbox.moe/kubukz.png"
+SOUNCLOUD_IMG_URL = "https://files.catbox.moe/kubukz.png"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/kubukz.png"
+SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/kubukz.png"
+SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/kubukz.png"
+SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/kubukz.png"
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # 🔐 User & Bot State Stores
