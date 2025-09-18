@@ -11,11 +11,11 @@ httpx[http2]==0.25.2
 motor
 numpy
 opencv-python
-pillow==11.2.1
+pillow==11.3.0
 psutil
 py-tgcalls==0.9.7
 pykeyboard
-kurigram==2.2.6
+kurigram==2.2.7
 python-dotenv
 pyyaml
 requests
@@ -24,7 +24,6 @@ spotipy
 tgcrypto
 unidecode
 uvloop
-yt-dlp
 youtube-search
 youtube-search-python
-yt-dlp>=2025.6.30
+yt-dlp>=2025.9.5
